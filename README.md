@@ -2,6 +2,6 @@
 
 Hi there! I'm Zaid. Here's a cool GIF:
 
-![Naruto GIF](https://github.com/username/repo/blob/main/yourgif.gif?raw=true)
+![Naruto GIF](https://imgur.com/jEtGlpD)
 
 Feel free to check out my projects and connect with me!
